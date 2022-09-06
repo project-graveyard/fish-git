@@ -1,5 +1,4 @@
-Port of [oh-my-zsh/git.plugin](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/git/git.plugin.zsh) to the [Fish shell](http://fishshell.com).
-
+Custom git alias for my fish shell
 
 ## Installation
 
