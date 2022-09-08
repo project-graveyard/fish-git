@@ -1,3 +1,3 @@
-function gau --description 'git add --update --verbose'
+function gau --description 'update tracked files'
   ga --update $argv; 
 end
