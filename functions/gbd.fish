@@ -1,4 +1,3 @@
-# Defined via `source`
-function gbd --wraps='git branch -d' --description 'alias gbd git branch -d'
+function gbd --description 'delete merged branch'
   git branch -d $argv; 
 end
