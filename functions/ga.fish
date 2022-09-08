@@ -1,4 +1,3 @@
-# Defined via `source`
-function ga --wraps='git add' --description 'alias ga git add'
-  git add $argv; 
+function gav --wraps='git add --verbose' --description 'git add --verbose'
+  git add --verbose $argv; 
 end
