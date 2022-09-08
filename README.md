@@ -5,7 +5,7 @@ Custom git alias for my fish shell
 ### [Fundle](https://github.com/danhper/fundle)
 Add
 ```fish
-fundle plugin benjamineskola/fish-git
+fundle plugin DaveSaah/fish-git
 ```
 to your `config.fish`, reload your shell, and run `fundle install`.
 
