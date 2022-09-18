@@ -1,4 +1,4 @@
-Custom git alias for my fish shell
+Personalisation of git alias for my fish shell
 
 ## Installation
 
